@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://path/to/your/awesome/banner.png" alt="Sapaan Hangat!">
-</p>
-
 <h1 align="center">Hai 👋, Saya GreyArch (axzss)</h1>
 <h3 align="center">Seorang yang Bersemangat mempelajari industri blokchain and web3</h3>
 
